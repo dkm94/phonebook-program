@@ -1,0 +1,15 @@
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\bin\MCD\Debug\net6.0\annuaire.exe
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\bin\MCD\Debug\net6.0\annuaire.deps.json
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\bin\MCD\Debug\net6.0\annuaire.runtimeconfig.json
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\bin\MCD\Debug\net6.0\annuaire.dll
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\bin\MCD\Debug\net6.0\ref\annuaire.dll
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\bin\MCD\Debug\net6.0\annuaire.pdb
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\annuaire.csproj.AssemblyReference.cache
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\annuaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\annuaire.AssemblyInfoInputs.cache
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\annuaire.AssemblyInfo.cs
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\annuaire.csproj.CoreCompileInputs.cache
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\annuaire.dll
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\ref\annuaire.dll
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\annuaire.pdb
+C:\Users\dalin\Documents\workspace\CoursCsharp\annuaire\obj\MCD\Debug\net6.0\annuaire.genruntimeconfig.cache
