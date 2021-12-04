@@ -12,6 +12,8 @@ namespace Annuaire // Nom du projet
         private String number;// champ
         public string Number {get => number; set => number = value;} // propriété
 
+        public Contact(){ // Annuaire.Contact a besoin d'un constructeur dans paramètre pour être sérialisé
+        }
         public Contact(string name, string number){ //constructeur
             this.name = name;
             this.number = number;
