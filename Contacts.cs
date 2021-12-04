@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Annuaire // Note: actual namespace depends on the project name.
+namespace Annuaire // Nom du projet
 {
     
     [Serializable()] // une methode serializable ne peux pas exister sans constructeur sans arguments
